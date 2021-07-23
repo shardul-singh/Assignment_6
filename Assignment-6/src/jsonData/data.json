@@ -1,0 +1,29 @@
+[
+    {
+      "id": "1",
+      "FirstName": "Shardul",
+      "MiddleName": "ss",
+      "LastName": "Singh",
+      "Email": "shardul.singh@gmail.com",
+      "Phone": "8978977,",
+      "Address": "Varanasi"
+    },
+    {
+      "id": "2",
+      "FirstName": "Ashish",
+      "MiddleName": "Kumar",
+      "LastName": "Singh",
+      "Email": "ashish.singh@rediff.com",
+      "Phone": "67987080",
+      "Address": "Delhi"
+    },
+    {
+        "id": "3",
+        "FirstName": "Akash",
+        "MiddleName": "Kumar",
+        "LastName": "Singh",
+        "Email": "akash.singh@rediff.com",
+        "Phone": "679779870",
+        "Address": "Kanpur"
+      }
+]
